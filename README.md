@@ -4,7 +4,7 @@
 [![Linktree](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://linktr.ee/Bharat_29_11)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbjee2019@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhushan9473)
-[![portfolio](https://img.shields.io/badge/-000000?style=for-the-badge&logo=react&logoColor=white)](https://ibharatbhushan.netlify.app/)
+[![portfolio](https://img.shields.io/badge/-portfolio.com000000?style=for-the-badge&logo=react&logoColor=white)](https://ibharatbhushan.netlify.app/)
 
 
 
