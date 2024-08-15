@@ -121,11 +121,20 @@
 </td>
 
 <td align="center" width="20%">
+<span><b><center>Figma</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/figma.png"> 
 </td>
 
 <td align="center" width="20%">
+<span><b><center>WordPress</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/wordpress.png"> 
 </td>
 </tr>
 
 </tbody>
 </table>
+
+
+
+
+
