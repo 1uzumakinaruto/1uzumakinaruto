@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F79A00&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Bharat+Bhushan!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F79A00&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Bharat+Bhushan!;A+Software+Developer" alt="Typing SVG" />
 </p>
+
 
 
 <a href="https://ibharatbhushan.netlify.app/" target="_blank">
