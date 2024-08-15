@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2 align="center">👋 Hi, I'm Bharat Bhushan!</h2>
 
 <a href="https://ibharatbhushan.netlify.app/" target="_blank">
     <img width="1680" alt="Screenshot 2024-08-15 at 8 23 44 PM" src="https://github.com/user-attachments/assets/a5a0a76c-fa8b-4be6-b107-f08c522ed967">
@@ -16,7 +16,7 @@
 <br>
 
 
-<h2 align="center">👋 Hi, I'm Bharat Bhushan!</h2>
+
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/code.png"/>
