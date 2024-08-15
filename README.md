@@ -48,7 +48,7 @@ I am **Bharat Bhushan**, a dedicated and passionate **Web Developer** with a Bac
 - 👯 I’m looking to collaborate on web development projects
 - 📫 How to reach me: https://linktr.ee/Bharat_29_11
 
-
+---
 
 ## Tech Stack :computer:
 
