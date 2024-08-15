@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  I am a dedicated and passionate web developer with a Bachelor of Engineering degree in <b>Computer Science and Engineering</b> from <b>HKBK College of Engineering</b>, Bengaluru, India. My journey in the tech world has been driven by a relentless pursuit of knowledge and a keen interest in creating innovative web solutions.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&width=460&lines=I+am+a+dedicated+and+passionate+web+developer;With+a+Bachelor+of+Engineering+degree+in+Computer+Science+and+Engineering;From+HKBK+College+of+Engineering,+Bengaluru,+India.;My+journey+in+the+tech+world+has+been+driven+by+a+relentless+pursuit+of+knowledge;And+a+keen+interest+in+creating+innovative+web+solutions." alt="Typing SVG" />
 </p>
 
 
