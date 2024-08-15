@@ -3,6 +3,8 @@
 <a href="https://ibharatbhushan.netlify.app/" target="_blank">
     <img width="1680" alt="Screenshot 2024-08-15 at 8 23 44 PM" src="https://github.com/user-attachments/assets/a5a0a76c-fa8b-4be6-b107-f08c522ed967">
 </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bhushan9473)
+
 
 
 
