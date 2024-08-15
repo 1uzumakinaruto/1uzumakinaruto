@@ -17,7 +17,8 @@
 
 ### 🧑‍💻 About Me
 
-I am **Bharat Bhushan**, a dedicated and passionate **Web Developer** with a Bachelor of Engineering degree in **Computer Science and Engineering** from **HKBK College of Engineering**, Bengaluru, India. My journey in the tech world has been driven by a relentless pursuit of knowledge and a keen interest in creating innovative web solutions.
+👋 Hi, I'm Bharat Bhushan! I am currently an Associate Software Engineer Trainee at Miamin System Inc. With a strong foundation in web development and a Bachelor of Engineering degree in Computer Science and Engineering, I am passionate about building innovative software solutions. My journey in the tech world is driven by a continuous desire to learn and grow in the ever-evolving field of technology.
+
 
 ---
 
