@@ -52,7 +52,7 @@ I am **Bharat Bhushan**, a dedicated and passionate **Web Developer** with a Bac
 
 ### Tech Stack :computer:
 
-<br>
+
 <table>
 <tbody>
  <tr>
