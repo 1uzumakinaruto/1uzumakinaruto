@@ -1,4 +1,7 @@
-<h2 align="center">👋 Hi, I'm Bharat Bhushan!</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F79A00&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Bharat+Bhushan!" alt="Typing SVG" />
+</p>
+
 
 <a href="https://ibharatbhushan.netlify.app/" target="_blank">
     <img width="1680" alt="Screenshot 2024-08-15 at 8 23 44 PM" src="https://github.com/user-attachments/assets/a5a0a76c-fa8b-4be6-b107-f08c522ed967">
