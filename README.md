@@ -21,13 +21,59 @@
 
 
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/code.png"/>
-</p>
+<h2 align="center">👋 Hi, I'm Bharat Bhushan!</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=I+am+a+dedicated+and+passionate+web+developer+with+a+Bachelor+of+Engineering+degree+in+Computer+Science+and+Engineering+from+HKBK+College+of+Engineering,+Bengaluru,+India.+My+journey+in+the+tech+world+has+been+driven+by+a+relentless+pursuit+of+knowledge+and+a+keen+interest+in+creating+innovative+web+solutions." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F79A00&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+Tech+Enthusiast;Always+Learning+%7C+Innovating" alt="Typing SVG" />
 </p>
+
+---
+
+### 🧑‍💻 About Me
+
+I am **Bharat Bhushan**, a dedicated and passionate **Web Developer** with a Bachelor of Engineering degree in **Computer Science and Engineering** from **HKBK College of Engineering**, Bengaluru, India. My journey in the tech world has been driven by a relentless pursuit of knowledge and a keen interest in creating innovative web solutions.
+
+---
+
+### 🛠️ Technologies & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 🌱 Currently Learning
+
+- Advanced React
+- TypeScript
+- Cloud Computing (AWS/GCP)
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bharat%20Bhushan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhushan9473)
+[![GitHub](https://img.shields.io/badge/GitHub-1uzumakinaruto-black?style=for-the-badge&logo=github)](https://github.com/1uzumakinaruto)
+[![Instagram](https://img.shields.io/badge/Instagram-n4ruto__uzumakix-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/n4ruto_uzumakix)
+[![Linktree](https://img.shields.io/badge/Linktree-Bharat%20Bhushan-green?style=for-the-badge&logo=linktree)](https://linktr.ee/Bharat_29_11)
+
+---
+
+### ✨ Projects
+
+- **[LocalHost Web Application](https://github.com/1uzumakinaruto/LocalHost)** - A full-stack web application built with React, Node.js, and MongoDB.
+- **[Yummato Food Delivery App](https://github.com/1uzumakinaruto/Yummato)** - A food delivery application designed for Scoler.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=1uzumakinaruto&style=flat-square&color=blue" alt="Bharat's GitHub Profile Views" />
+</p>
+
 
 
 
