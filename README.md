@@ -24,3 +24,107 @@
 
 
 ## Tech Stack :computer:
+
+<br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<span><b><center>JavaScript</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/javascript.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>TypeScript</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/typescript.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>HTML5</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/html-5.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>CSS</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/css3.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Bootstrap</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/bootstrap.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Tailwind CSS</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/tailwindcss.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>React</center></b></span> 
+<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Angular</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/angularjs.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Node.js</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Express.js</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/express.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>MongoDB</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/mongodb.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>MSSQL</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/microsoft-sql-server.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>MySQL</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/mysql.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/git.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>VSCode</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/visual-studio-code-2019.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Xcode</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/xcode.png"> 
+</td>
+
+<td align="center" width="20%">
+</td>
+
+<td align="center" width="20%">
+</td>
+</tr>
+
+</tbody>
+</table>
