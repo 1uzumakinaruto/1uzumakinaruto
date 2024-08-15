@@ -5,7 +5,7 @@
 </a>
 <a href="https://www.linkedin.com/in/bhushan9473" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a><a href="https://linktr.ee/your-linktree-username" target="_blank">
+</a><a href="https://linktr.ee/https://linktr.ee/Bharat_29_11" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"/>
 </a>
 
