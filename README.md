@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![bg 001](https://github.com/user-attachments/assets/b942bc93-7efa-455a-9a2c-45fbee6868d6)
+<img width="1680" alt="Screenshot 2024-08-15 at 8 23 44 PM" src="https://github.com/user-attachments/assets/a5a0a76c-fa8b-4be6-b107-f08c522ed967">
+
 
 
 - 🔭 I’m currently working on node.js project
