@@ -27,9 +27,10 @@ I am **Bharat Bhushan**, a dedicated and passionate **Web Developer** with a Bac
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bharat%20Bhushan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhushan9473)
+[![Linktree](https://img.shields.io/badge/Linktree-Bharat%20Bhushan-green?style=for-the-badge&logo=linktree)](https://linktr.ee/Bharat_29_11)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Bharat%20Bhushan-orange?style=for-the-badge&logo=netlify)](https://ibharatbhushan.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-1uzumakinaruto-black?style=for-the-badge&logo=github)](https://github.com/1uzumakinaruto)
 [![Instagram](https://img.shields.io/badge/Instagram-n4ruto__uzumakix-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/n4ruto_uzumakix)
-[![Linktree](https://img.shields.io/badge/Linktree-Bharat%20Bhushan-green?style=for-the-badge&logo=linktree)](https://linktr.ee/Bharat_29_11)
 
 ---
 
