@@ -59,17 +59,17 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="20%">
+<td align="center" width="30%">
 <span><b><center>JavaScript</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/2x/javascript.png"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="30%">
 <span><b><center>TypeScript</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/2x/typescript.png"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="30%">
 <span><b><center>HTML5</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
