@@ -20,24 +20,9 @@ I am **Bharat Bhushan**, a dedicated and passionate **Web Developer** with a Bac
 
 ---
 
-### 🛠️ Technologies & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
 
-### 🌱 Currently Learning
-
-- Advanced React
-- TypeScript
-- Cloud Computing (AWS/GCP)
-
----
 
 ### 📫 Connect with Me
 
@@ -48,12 +33,7 @@ I am **Bharat Bhushan**, a dedicated and passionate **Web Developer** with a Bac
 
 ---
 
-### ✨ Projects
 
-- **[LocalHost Web Application](https://github.com/1uzumakinaruto/LocalHost)** - A full-stack web application built with React, Node.js, and MongoDB.
-- **[Yummato Food Delivery App](https://github.com/1uzumakinaruto/Yummato)** - A food delivery application designed for Scoler.
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=1uzumakinaruto&style=flat-square&color=blue" alt="Bharat's GitHub Profile Views" />
