@@ -16,6 +16,18 @@
 <br>
 
 
+<h2 align="center">👋 Hi, I'm Bharat Bhushan!</h2>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/code.png"/>
+</p>
+
+<p align="center">
+  I am a dedicated and passionate web developer with a Bachelor of Engineering degree in <b>Computer Science and Engineering</b> from <b>HKBK College of Engineering</b>, Bengaluru, India. My journey in the tech world has been driven by a relentless pursuit of knowledge and a keen interest in creating innovative web solutions.
+</p>
+
+
+
 
 - 🔭 I’m currently working on node.js project
 - 🌱 I’m currently learning backend technology
